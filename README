@@ -1,0 +1,3 @@
+navigation.scss 
+    for nav instead of collapsing the width 
+    assigned a margin-left to hide the nav element
